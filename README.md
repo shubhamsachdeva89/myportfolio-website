@@ -1,6 +1,17 @@
+# Portfolio Website Template
+
+> **📢 Important Notice**  
+> This is a **public demonstration repository** cloned from a private portfolio project. All personal information, contact details, work experience, and project data have been replaced with fictional placeholder content for privacy and security reasons.
+> 
+> **🌐 To view the actual portfolio with real information, please visit:** [https://shubamsachdeva.netlify.app/](https://shubamsachdeva.netlify.app/)
+> 
+> This repository serves as a **template and showcase** of the technical implementation, design patterns, and features used in building a modern portfolio website.
+
+---
+
 # John Doe - Portfolio Website
 
-A modern, responsive portfolio website showcasing my experience as a Staff Data and AI Engineer with expertise in Big Data, Machine Learning, and AI applications.
+A modern, responsive portfolio website showcasing experience as a Staff Data and AI Engineer with expertise in Big Data, Machine Learning, and AI applications. This template demonstrates professional portfolio development with React, TypeScript, and modern web technologies.
 
 ## 🚀 Live Demo
 
